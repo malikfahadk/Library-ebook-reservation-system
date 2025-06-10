@@ -2,6 +2,8 @@
 📚 Library E-Book Lending &amp; Reservation System 📖 Welcome to the Library E-Book Lending and Reservation System – a powerful and user-friendly platform designed to modernize and streamline the way libraries manage e-book borrowing and reservations. 
 Here's the text version of the **ERD (Entity-Relationship Diagram)** from your image for the **Library E-Book Lending & Reservation System**:
 
+Here's the text version of the **ERD (Entity-Relationship Diagram)** from your image for the **Library E-Book Lending & Reservation System**:
+
 ---
 
 ### 📦 Tables and Their Fields:
@@ -149,5 +151,10 @@ Here's the text version of the **ERD (Entity-Relationship Diagram)** from your i
 * DeviceID (PK)
 * UserID (FK to Users)
 * DeviceType (varchar(50))
+
+---
+
+Let me know if you'd like this converted into SQL schema code or a markdown ERD summary for your GitHub README!
+
 
 
